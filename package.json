@@ -1,0 +1,19 @@
+{
+  "name": "migrate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "migrate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "mongodb": "^3.6.3"
+  },
+  "devDependencies": {
+    "winston": "^3.3.3"
+  }
+}
